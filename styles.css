@@ -35,7 +35,7 @@ h1 {
 }
 
 #stripe {
-  background: white;
+  background-color: white;
   height: 30px;
   text-align: center;
 }
@@ -67,6 +67,7 @@ button {
   -moz-transition: all 0.3s;
   outline: none;
   cursor: pointer;
+  background-color: white;
 }
 
 button:hover {
